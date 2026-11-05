@@ -1,0 +1,9 @@
+feature_a,feature_b,corr,abs_corr
+harvest_volume_ton,revenue_eur,0.9791528561239755,0.9791528561239755
+fruit_maturation_rate,temperature_c,0.9360384106058078,0.9360384106058078
+soil_moisture_pct,temperature_c,-0.8543108171911851,0.8543108171911851
+humidity_pct,temperature_c,-0.8122552774032656,0.8122552774032656
+fruit_maturation_rate,soil_moisture_pct,-0.8053432344679001,0.8053432344679001
+humidity_pct,soil_moisture_pct,0.8040577196953838,0.8040577196953838
+harvest_volume_ton,productivity_ton_ha,0.7807231572125078,0.7807231572125078
+fruit_maturation_rate,humidity_pct,-0.7757620928881875,0.7757620928881875
